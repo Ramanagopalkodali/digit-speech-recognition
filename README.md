@@ -12,6 +12,9 @@ The system processes raw audio data, extracts acoustic features, and classifies 
 * **Top Test Accuracy:** `81.3%` achieved via the GMM framework with K-Means initialization.
 * **Evaluation Framework:** Full script implementation to generate cross-speaker validation configurations, comprehensive confusion matrices, and isolated per-digit precision/recall arrays.
 
+## How to run the repository:
+The rep
+
 ## 🛠️ Repository Structure
 ```text
 ├── src/
@@ -23,3 +26,6 @@ The system processes raw audio data, extracts acoustic features, and classifies 
 ├── Report.pdf                 # Detailed mathematical derivations & metrics analysis
 ├── Details.txt                # Student metadata
 └── README.md                  # Project documentation
+
+
+
