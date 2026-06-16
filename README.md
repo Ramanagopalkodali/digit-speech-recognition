@@ -9,7 +9,7 @@ The system processes raw audio data, extracts acoustic features, and classifies 
 * **Speaker-Independent Rigor:** Designed the validation pipeline to strictly isolate speakers 1–5 for training/validation, reserving speaker 6 purely for test inference, ensuring true generalization evaluation.
 
 ## 📊 Performance & Metrics
-* **Top Test Accuracy:** `88.2%` achieved via the GMM framework with K-Means initialization.
+* **Top Test Accuracy:** `81.3%` achieved via the GMM framework with K-Means initialization.
 * **Evaluation Framework:** Full script implementation to generate cross-speaker validation configurations, comprehensive confusion matrices, and isolated per-digit precision/recall arrays.
 
 ## 🛠️ Repository Structure
