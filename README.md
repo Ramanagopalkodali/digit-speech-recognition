@@ -1,5 +1,7 @@
 # Speaker-Independent Spoken Digit Recognition from Scratch
 
+In this reporitpty the precording got cut so , I will keep the link of complete files so use that download that and keep in same folder and then run the maim.py to get accrate results , if you do this directly we get wrong results -link: https://drive.google.com/drive/folders/1f5eGtxSqxV8bJ8d7e9Oxy8JFPg2wH-Be?usp=sharing
+
 This repository contains a complete, from-scratch implementation of a spoken digit recognition system using probabilistic graphical and mixture models. 
 The system processes raw audio data, extracts acoustic features, and classifies spoken digits (0-9) across unseen speakers using custom-built statistical classifiers.
 
